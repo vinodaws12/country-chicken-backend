@@ -16,8 +16,8 @@ pipeline {
         DOCKER_REPO      = 'docker-releases'
 
         GROUP_ID         = 'com.countrychicken'
-        VERSION          = ''
-        JAR_NAME         = ''
+        VERSION          = '1.0.0'
+        JAR_NAME         = 'country-chicken-backend-1.0.0.jar'
     }
 
     stages {
